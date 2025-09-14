@@ -30,9 +30,24 @@
 
 <table>
   <tr>
-    <th align="center"><a href="https://github.com/Sam-Ryong"><img src="https://avatars.githubusercontent.com/u/109272099?v=4" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://github.com/byeongmin-kwak"><img src="https://avatars.githubusercontent.com/u/71933999?v=4" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300px;" alt=""/><br /></a></th>
+    <th align="center">
+      <a href="https://github.com/Sam-Ryong">
+        <img src="https://avatars.githubusercontent.com/u/109272099?v=4" width="200" height="200" style="object-fit: cover;" alt=""/>
+        <br />
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/byeongmin-kwak">
+        <img src="https://avatars.githubusercontent.com/u/71933999?v=4" width="200" height="200" style="object-fit: cover;" alt=""/>
+        <br />
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://github.com/wjkim9653">
+        <img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="200" height="200" style="object-fit: cover;" alt=""/>
+        <br />
+      </a>
+    </th>
   </tr>
   <tr>  
     <th><a href="https://github.com/Sam-Ryong"><b>홍승표</b></a></th>
@@ -46,12 +61,23 @@
   </tr>
 </table>
 
+
 ## ✨ 협력
 
 <table>
   <tr>
-    <th align="center"><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><img src="https://media.licdn.com/dms/image/v2/C5603AQHwDfP6Zce6dQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591768286062?e=2147483647&v=beta&t=gaNf7Mk0Dmr3srTH3Yy4epcTciVAtlnwloGq36c7SQ8" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://www.linkedin.com/in/kimhyorim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://media.licdn.com/dms/image/v2/D4D03AQGr7ZzHPpt17g/profile-displayphoto-shrink_200_200/B4DZPCWdqAGgAY-/0/1734132490211?e=1760572800&v=beta&t=ZJ0ao6-2ucCv-pI4xrR9YrATz54vL2GSRHa-uj7825M" width="300px;" alt="사진"/><br /></a></th>
+    <th align="center">
+      <a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab">
+        <img src="https://media.licdn.com/dms/image/v2/C5603AQHwDfP6Zce6dQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591768286062?e=2147483647&v=beta&t=gaNf7Mk0Dmr3srTH3Yy4epcTciVAtlnwloGq36c7SQ8" width="200" height="200" style="object-fit: cover;" alt=""/>
+        <br />
+      </a>
+    </th>
+    <th align="center">
+      <a href="https://www.linkedin.com/in/kimhyorim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://media.licdn.com/dms/image/v2/D4D03AQGr7ZzHPpt17g/profile-displayphoto-shrink_200_200/B4DZPCWdqAGgAY-/0/1734132490211?e=1760572800&v=beta&t=ZJ0ao6-2ucCv-pI4xrR9YrATz54vL2GSRHa-uj7825M" width="200" height="200" style="object-fit: cover;" alt="사진"/>
+        <br />
+      </a>
+    </th>
   </tr>
   <tr>  
     <th><a href="https://kr.linkedin.com/in/%EC%96%91%EC%88%98-%EA%B9%80-6a9b601ab"><b>김양수</b></a></th>
