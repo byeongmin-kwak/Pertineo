@@ -10,7 +10,7 @@
 ## ✨ 데모 영상
 
 <div align="center">
-  <img width="600" height="337" alt="pertineo 데모 영상 스크린샷" src="https://github.com/user-attachments/assets/b0e1a6ec-c78c-44c0-9b75-1f39088db5c0" />
+  <img width="800" height="500" alt="pertineo 데모 영상 스크린샷" src="https://github.com/user-attachments/assets/436e94d0-214c-49d4-b28a-0b0975f8ff2b" />
 </div>
 <br>
 
