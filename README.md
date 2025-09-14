@@ -32,7 +32,7 @@
   <tr>
     <th align="center"><a href="https://github.com/Sam-Ryong"><img src="https://avatars.githubusercontent.com/u/109272099?v=4" width="300px;" alt=""/><br /></a></th>
     <th align="center"><a href="https://github.com/byeongmin-kwak"><img src="https://avatars.githubusercontent.com/u/71933999?v=4" width="300px;" alt=""/><br /></a></th>
-    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300x;" alt=""/><br /></a></th>
+    <th align="center"><a href="https://github.com/wjkim9653"><img src="https://avatars.githubusercontent.com/u/58078984?v=4" width="300px;" alt=""/><br /></a></th>
   </tr>
   <tr>  
     <th><a href="https://github.com/Sam-Ryong"><b>홍승표</b></a></th>
