@@ -17,10 +17,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img alt="AI 기반 이력서 분석 및 보고서 생성 데모" src="https://github.com/user-attachments/assets/f582e73e-1b49-43c0-8869-d95fb95b2e56" />
+      <img alt="" src="https://github.com/user-attachments/assets/04838608-1443-44f3-ac2e-a07e16019621" />
     </td>
     <td width="50%" align="center">
-      <img alt="개인 맞춤형 역량 리포트 생성 및 시각화 데모" src="https://github.com/user-attachments/assets/f5f74ea4-3c02-4c69-bea9-3d9387f24e20" />
+      <img alt="" src="https://github.com/user-attachments/assets/9588ab1c-9955-4784-affe-0cde0b99731f" />
     </td>
   </tr>
 </table>
